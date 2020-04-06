@@ -29,6 +29,8 @@
 `git add 'название файла'`
 * зафиксируйте изменения командой
 `git commit -m "название изменения, желательно понятное и короткое"`
+* свяжите свой локальный репозиторий с репозиторием на ggithab
+`git remote add origin https://github.com/alexander-drach/git-11_hw-1.git`
 * добавьте изменения на гитхааб
 `git push -u origin master`
 
